@@ -344,6 +344,6 @@
       "color": null
     }
   ],
-  "manifest": "https://github.com/kiregor/Draw-Steel-Module/blob/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/kiregor/Draw-Steel-Module/refs/heads/main/module.json",
   "download": "https://github.com/kiregor/Draw-Steel-Module/archive/refs/heads/main.zip"
 }

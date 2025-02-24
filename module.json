@@ -232,6 +232,6 @@
             ]
         }
     ],
-    "manifest": "",
-    "download": ""
+    "manifest": "https://github.com/kiregor/Draw-Steel-Module/blob/main/module.json",
+    "download": "https://github.com/kiregor/Draw-Steel-Module/archive/refs/heads/main.zip"
   }

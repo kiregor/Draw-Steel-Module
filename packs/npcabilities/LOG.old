@@ -1,0 +1,8 @@
+2025/02/24-13:21:35.761 5c14 Recovering log #6
+2025/02/24-13:21:35.771 5c14 Delete type=0 #6
+2025/02/24-13:21:35.771 5c14 Delete type=3 #4
+2025/02/24-13:22:38.180 77dc Level-0 table #11: started
+2025/02/24-13:22:38.180 77dc Level-0 table #11: 0 bytes OK
+2025/02/24-13:22:38.182 77dc Delete type=0 #9
+2025/02/24-13:22:38.185 77dc Manual compaction at level-0 from '!items!CKl61VC9grpGmtCW' @ 72057594037927935 : 1 .. '!items!O8JDFmwTqEhVvYcn' @ 0 : 0; will stop at (end)
+2025/02/24-13:22:38.185 77dc Manual compaction at level-1 from '!items!CKl61VC9grpGmtCW' @ 72057594037927935 : 1 .. '!items!O8JDFmwTqEhVvYcn' @ 0 : 0; will stop at (end)

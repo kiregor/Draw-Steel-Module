@@ -1,0 +1,237 @@
+{
+    "id": "draw-steel-module",
+    "title": "Draw Steel Module",
+    "description": "A collection of Draw Steel content for your game.",
+    "version": "0.0.1",
+    "authors": [
+        {
+            "name": "haezan",
+            "discord": "haezan"
+        },
+        {
+            "name": "AmbyNavy",
+            "discord": "AmbyNavy"
+        },
+        
+        {
+            "name": "Kiregor",
+            "discord": "Kiregor"
+        }
+    ],
+    "compatibility": {
+        "minimum": "12",
+        "verified": "12"
+    },
+    "packs": [
+        {
+            "name": "draw-steel-sheets",
+            "label": "Draw Steel Sheet Templates",
+            "path": "packs/pcsheet.db",
+            "type": "Actor",
+            "system":"custom-system-builder"
+        },
+        {
+            "name": "draw-steel-creatures",
+            "label": "Draw Steel Creatures",
+            "path": "packs/creatures.db",
+            "type": "Actor",
+            "system":"custom-system-builder"
+        },
+        {
+            "name": "draw-steel-goblins",
+            "label": "Draw Steel Goblins",
+            "path": "packs/goblins.db",
+            "type": "Actor",
+            "system":"custom-system-builder"
+        },
+        {
+            "name": "draw-steel-pc-abilities",
+            "label": "Draw Steel PC Abilities",
+            "path": "packs/pcabilities.db",
+            "type": "Item",
+            "system":"custom-system-builder"
+        },
+        {
+            "name": "draw-steel-censor-abilities",
+            "label": "Draw Steel Censor Abilities",
+            "path": "packs/censorabilities.db",
+            "type": "Item",
+            "system":"custom-system-builder"
+        },
+        {
+            "name": "draw-steel-conduit-abilities",
+            "label": "Draw Steel Conduit Abilities",
+            "path": "packs/conduitabilities.db",
+            "type": "Item",
+            "system":"custom-system-builder"
+        },
+        {
+            "name": "draw-steel-elementalist-abilities",
+            "label": "Draw Steel Elementalist Abilities",
+            "path": "packs/elementalistabilities.db",
+            "type": "Item",
+            "system":"custom-system-builder"
+        },
+        {
+            "name": "draw-steel-fury-abilities",
+            "label": "Draw Steel Fury Abilities",
+            "path": "packs/furyabilities.db",
+            "type": "Item",
+            "system":"custom-system-builder"
+        },
+        {
+            "name": "draw-steel-null-abilities",
+            "label": "Draw Steel Null Abilities",
+            "path": "packs/nullabilities.db",
+            "type": "Item",
+            "system":"custom-system-builder"
+        },
+        {
+            "name": "draw-steel-shadow-abilities",
+            "label": "Draw Steel Shadow Abilities",
+            "path": "packs/shadowabilities.db",
+            "type": "Item",
+            "system":"custom-system-builder"
+        },
+        {
+            "name": "draw-steel-tactician-abilities",
+            "label": "Draw Steel Tactiican Abilities",
+            "path": "packs/tacticianabilities.db",
+            "type": "Item",
+            "system":"custom-system-builder"
+        },
+        {
+            "name": "draw-steel-talent-abilities",
+            "label": "Draw Steel Talent Abilities",
+            "path": "packs/talentabilities.db",
+            "type": "Item",
+            "system":"custom-system-builder"
+        },
+        {
+            "name": "draw-steel-troubadour-abilities",
+            "label": "Draw Steel Troubadour Abilities",
+            "path": "packs/troubadourabilities.db",
+            "type": "Item",
+            "system":"custom-system-builder"
+        },
+        {
+            "name": "draw-steel-npc-abilities",
+            "label": "Draw Steel NPC Abilities",
+            "path": "packs/npcabilities.db",
+            "type": "Item",
+            "system":"custom-system-builder"
+        },
+        {
+            "name": "draw-steel-goblin-abilities",
+            "label": "Draw Steel Goblin Abilities",
+            "path": "packs/goblinabilities.db",
+            "type": "Item",
+            "system":"custom-system-builder"
+        },
+        {
+            "name": "draw-steel-trreasures",
+            "label": "Draw Steel Treasures",
+            "path": "packs/treasures.db",
+            "type": "Item",
+            "system":"custom-system-builder"
+        },
+        {
+            "name": "draw-steel-macros",
+            "label": "Draw Steel Macros",
+            "path": "packs/macros.db",
+            "type": "Macro",
+            "system":"custom-system-builder"
+        }
+    ],
+    "packFolders": [
+        {
+            "name": "Classes",
+            "sorting": "a",
+            "packs": ["draw-steel-pc-abilities"],
+            "folders": [
+                {
+                    "name": "Censor",
+                    "sorting": "a",
+                    "color": "#000000",
+                    "packs": ["draw-steel-censor-abilities"]
+                },
+                {
+                    "name": "Conduit",
+                    "sorting": "a",
+                    "color": "#000000",
+                    "packs": ["draw-steel-conduit-abilities"]
+                },
+                {
+                    "name": "Elementalist",
+                    "sorting": "a",
+                    "color": "#000000",
+                    "packs": ["draw-steel-elementalist-abilities"]
+                },
+                {
+                    "name": "Fury",
+                    "sorting": "a",
+                    "color": "#000000",
+                    "packs": ["draw-steel-fury-abilities"]
+                },
+                {
+                    "name": "Null",
+                    "sorting": "a",
+                    "color": "#000000",
+                    "packs": ["draw-steel-null-abilities"]
+                },
+                {
+                    "name": "Shadow",
+                    "sorting": "a",
+                    "color": "#000000",
+                    "packs": ["draw-steel-shadow-abilities"]
+                },
+                {
+                    "name": "Tactician",
+                    "sorting": "a",
+                    "color": "#000000",
+                    "packs": ["draw-steel-tactician-abilities"]
+                },
+                {
+                    "name": "Talent",
+                    "sorting": "a",
+                    "color": "#000000",
+                    "packs": ["draw-steel-talent-abilities"]
+                },
+                {
+                    "name": "Troubadour",
+                    "sorting": "a",
+                    "color": "#000000",
+                    "packs": ["draw-steel-troubadour-abilities"]
+                }
+            ]
+        },
+        {
+            "name": "Monsters",
+            "sorting": "a",
+            "packs": ["draw-steel-creatures"],
+            "folders": [
+                {
+                    "name": "Goblins",
+                    "sorting": "a",
+                    "color": "#000000",
+                    "packs": ["draw-steel-goblins"]
+                }
+            ]
+        },
+        {
+            "name": "Monster Abilities",
+            "sorting": "a",
+            "packs": ["draw-steel-npc-abilities"],
+            "folders": [
+                {
+                    "name": "Goblin Abilities",
+                    "sorting": "a",
+                    "color": "#000000",
+                    "packs": ["draw-steel-goblin-abilities"]
+                }
+            ]
+        }
+    ],
+    "manifest": "",
+    "download": ""
+  }

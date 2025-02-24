@@ -2,7 +2,7 @@
   "id": "draw-steel-module",
   "title": "Draw Steel Module",
   "description": "A collection of Draw Steel content for your game.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "authors": [
     {
       "name": "haezan",
@@ -345,5 +345,5 @@
     }
   ],
   "manifest": "https://raw.githubusercontent.com/kiregor/Draw-Steel-Module/refs/heads/main/module.json",
-  "download": "https://github.com/kiregor/Draw-Steel-Module/archive/refs/heads/main.zip"
+  "download": "https://github.com/kiregor/Draw-Steel-Module/archive/refs/tags/v0.0.3.zip"
 }

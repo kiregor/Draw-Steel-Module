@@ -2,7 +2,7 @@
   "id": "draw-steel-module",
   "title": "Draw Steel Module",
   "description": "A collection of Draw Steel content for your game.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "authors": [
     {
       "name": "haezan",
@@ -137,7 +137,7 @@
     },
     {
       "name": "draw-steel-tactician-abilities",
-      "label": "Draw Steel Tactiican Abilities",
+      "label": "Draw Steel Tactician Abilities",
       "path": "packs/tacticianabilities",
       "type": "Item",
       "system": "custom-system-builder",

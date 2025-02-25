@@ -2,7 +2,7 @@
   "id": "draw-steel-module",
   "title": "Draw Steel Module",
   "description": "A collection of Draw Steel content for your game.",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "authors": [
     {
       "name": "haezan",
@@ -169,6 +169,17 @@
       }
     },
     {
+      "name": "draw-steel-kits",
+      "label": "Draw Steel Kits",
+      "path": "packs/kits",
+      "type": "Item",
+      "system": "custom-system-builder",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
       "name": "draw-steel-npc-abilities",
       "label": "Draw Steel NPC Abilities",
       "path": "packs/npcabilities",
@@ -191,7 +202,7 @@
       }
     },
     {
-      "name": "draw-steel-trreasures",
+      "name": "draw-steel-treasures",
       "label": "Draw Steel Treasures",
       "path": "packs/treasures",
       "type": "Item",
